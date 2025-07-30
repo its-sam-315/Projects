@@ -12,7 +12,6 @@ Welcome to my project portfolio — a curated collection of **production-ready, 
 • Responsive design with persistent storage using LocalStorage  
 • Ideal for tracking tasks and boosting productivity  
 
----
 
 ### 🎓 [Student Grade Calculator](https://its-sam-315.github.io/student-grade-calculator/)
 **Auto Grading Web App with Performance Insights**  
@@ -20,7 +19,6 @@ Welcome to my project portfolio — a curated collection of **production-ready, 
 • Supports GPA-style logic and category-based results  
 • Lightweight, responsive, and fully client-side  
 
----
 
 ### 📅 [Study Planner](https://its-sam-315.github.io/study-planner/)
 **Visual Timetable + Task Organizer**  
@@ -28,7 +26,6 @@ Welcome to my project portfolio — a curated collection of **production-ready, 
 • Allows task marking, editing, and rescheduling  
 • Built for focused study sessions and academic management  
 
----
 
 ### 💰 [AI Finance Manager](https://its-sam-315.github.io/AI-Finance-Manager/#dashboard)
 **Smart Personal Finance Tracker + Visualizer (Offline & Private)**  
@@ -36,7 +33,6 @@ Welcome to my project portfolio — a curated collection of **production-ready, 
 • Automates daily budget tracking and spending insights  
 • Works fully offline with zero third-party dependencies  
 
----
 
 ### 🧹 [Python Automation Scripts](https://its-sam-315.github.io/Python-Automation-Scripts/)
 **Auto File Organizer to Keep Your PC Clean**  
